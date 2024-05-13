@@ -25,8 +25,8 @@ async def start(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/JARVIS_V2"),
-                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/JARVIS_V_SUPPORT")
+                Button.url("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/SHIVANSH474"),
+                Button.url("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/MASTIWITHFRIENDSXD")
             ]
         )
     )
@@ -39,8 +39,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/JARVIS_V2"),
-                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/JARVIS_V_SUPPORT")
+                Button.url("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/SHIVANSH474"),
+                Button.url("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/MASTIWITHFRIENDSXD")
             ]
         )
     )
